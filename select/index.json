@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "陽だまりロードナイト",
+  "base_artist": "Roselia",
+  "createdAt": "2025-12-07T16:54:37.440819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "陽だまりロードナイト",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_陽だまりロードナイト_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "陽だまりロードナイト",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/02_陽だまりロードナイト_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "陽だまりロードナイト -instrumental-",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/03_陽だまりロードナイト_-instrumental-_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "陽だまりロードナイト -instrumental-",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/04_陽だまりロードナイト_-instrumental-_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "陽だまりロードナイト - instrumental",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/05_陽だまりロードナイト_-_instrumental_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "陽だまりロードナイト",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/06_陽だまりロードナイト_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "陽だまりロードナイト",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/07_陽だまりロードナイト_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "陽だまりロードナイト -instrumental-",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/08_陽だまりロードナイト_-instrumental-_Roselia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "陽だまりロードナイト",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_陽だまりロードナイト_Roselia.txt"
+    }
+  ]
+}
